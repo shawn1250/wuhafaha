@@ -560,8 +560,8 @@ section {
   background-color: #ffb727;
 }
 .about .col-lg-6 {
-  flex: auto;!important
-  max-width: none;!important
+  flex: auto !important;
+  max-width: none !important;
 }
 /*--------------------------------------------------------------
 # My Resume
