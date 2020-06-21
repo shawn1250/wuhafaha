@@ -554,11 +554,10 @@ section {
 }
 
 .about .skills-content .progress-bar {
-  width: 1px;
+  width: 46%;
   height: 10px;
   transition: .9s;
   background-color: #ffb727;
-  width: 46%!important;
 }
 .about .col-lg-6 {
   flex: auto;
