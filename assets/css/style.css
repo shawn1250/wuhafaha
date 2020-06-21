@@ -558,6 +558,7 @@ section {
   height: 10px;
   transition: .9s;
   background-color: #ffb727;
+  width: 46%!important;
 }
 .about .col-lg-6 {
   flex: auto;
